@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import 'package:flutter_application_1/resources/resources.dart';
+import './resources/resources.dart';
 import './templates/logo_with_name.dart';
 
 class FirstPage extends StatelessWidget {
